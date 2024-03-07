@@ -24,7 +24,7 @@ Le modèle connait uniquement le context spécifique fournit (le transcript des 
 ![image](https://github.com/estellec18/too_long_did_not_listen/assets/126951321/c57d2c87-9ea0-4f11-9a59-c5aa9f93214b)
 
 #
-Mise en évidence d'une limite : Athletic greens est un sponsort du podcast et ce produit est mis en avant lors des coupures pub du podcast. Ces coupures pub n'étant pas flagué comme telle dans le transcript, le bot prend les information 'at face value'
+Mise en évidence d'une limite : Athletic greens est un sponsort du podcast et ce produit est mis en avant lors des coupures pub du podcast. Ces coupures pub n'étant pas flaguées comme telles dans le transcript, le bot prend les information 'at face value'
 ##
 ![image](https://github.com/estellec18/too_long_did_not_listen/assets/126951321/2a24503a-d746-4b35-b67f-22db81deb3c1)
 

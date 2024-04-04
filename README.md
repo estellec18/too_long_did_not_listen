@@ -6,6 +6,9 @@ RAG est une approche permettant d'améliorer l'efficacité des LLM en tirant par
 
 Dans ce cas d'espèce j'ai créé un **chat bot** entrainé sur deux épisodes du podcast Huberman Lab. Ce sont des podcast longs et denses en information (contenu scientifique). L'idée est de pouvoir accéder rapidement aux informations souhaitées sans avoir à écouter les épisodes dans leur intégralité.
 
+* [Dashboard streamlit](hub_dash.py)
+* [Fonctions pour récupérer le transcript d'une video youtube & créer un chatbot](rag_app.py)
+
 A noter : le chat bot pourrais être entrainé sur la totalité des épisodes du podcast, emmagasinant ainsi une large database de connaissance spécifique (contenu 'scientifique' sur le bio hacking mis à disposition par le docteur Huberman via ses podcasts)
 
 Suivant le même principe (et grace au PyPDFLoader proposé par lanchain_community) un exercice similaire peut etre réalisé sur la base de pdf : un document écrit est soumis au modèle LLM qui output un résumé (sous format bullet point par exemple).

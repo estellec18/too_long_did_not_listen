@@ -8,6 +8,11 @@ Dans ce cas d'espèce j'ai créé un **chat bot** entrainé sur deux épisodes d
 
 A noter : le chat bot pourrais être entrainé sur la totalité des épisodes du podcast, emmagasinant ainsi une large database de connaissance spécifique (contenu 'scientifique' sur le bio hacking mis à disposition par le docteur Huberman via ses podcasts)
 
+Suivant le même principe (et grace au PyPDFLoader proposé par lanchain_community) un exercice similaire peut etre réalisé sur la base de pdf : un document écrit est soumis au modèle LLM qui output un résumé (sous format bullet point par exemple).
+On peut imaginer de nombreux use cases pour les entreprises qui ont beaucoup de documentation écrite sur leur process.
+
+
+
 Ci dessous quelques captures d'écran du dashboard avec des exemples de questions / réponses
 
 #

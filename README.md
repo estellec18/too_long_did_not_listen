@@ -13,7 +13,7 @@ On peut imaginer de nombreux use cases pour les entreprises qui ont beaucoup de 
 
 
 
-Ci dessous quelques captures d'écran du dashboard avec des exemples de questions / réponses
+Ci dessous quelques captures d'écran du dashboard avec des exemples de questions / réponses (le modèle testé est gpt-3.5-turbo)
 
 #
 
